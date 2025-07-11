@@ -12,7 +12,7 @@ This project uses the **CIC DDoS 2019 dataset**, specifically the **SYN flood at
 
 ## 📌 Important Instructions
 
-- ⚠️ **Please download only the SYN flood attack dataset from the above URL.**
+- ⚠️ **Please use only the SYN flood attack dataset from the above URL.**
 
 - ❌ Do **NOT** use other attack types such as UDP, ICMP, or HTTP flood for this project.
 
