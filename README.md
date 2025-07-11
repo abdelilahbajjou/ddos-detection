@@ -15,15 +15,6 @@ Important:
 Download the dataset from:
 http://cicresearch.ca/CICDataset/CICDDoS2019/Dataset/PCAPs/03-11/
 
-## Folder Structure
-
-ddos-detection/
-├── data/
-│   └── README.md          # Dataset instructions, no actual data included
-├── ddos_detection.py      # Main Python script
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Files/folders to ignore in Git
-└── README.md              # This file
 
 ## Setup Instructions
 
@@ -37,7 +28,7 @@ ddos-detection/
 3. Download the SYN flood dataset CSV file and place it in the data/ folder.
 
 4. If needed, update the dataset path in ddos_detection.py:
-   df = safe_load_data("data/Friday-03-03-2019_TrafficForML_CICFlowMeter.csv")
+   df = safe_load_data("data/Syn.csv")
 
 ## Running the Project
 
